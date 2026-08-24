@@ -1,0 +1,1 @@
+Completing the Java Core modules with the completion of test tasks. The project covers topics such as the Collection Framework, OOP, Exception, Stream API, Reflection API, Testing and Multithreading. 
